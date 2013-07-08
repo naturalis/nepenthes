@@ -18,49 +18,49 @@
 
 . Number of taxa: 			77
 
-. Log-likelihood: 			-6920.67497
+. Log-likelihood: 			-5726.64368
 
-. Unconstrained likelihood: 		-10356.72878
+. Unconstrained likelihood: 		-9478.03025
 
-. Parsimony: 				598
+. Parsimony: 				309
 
-. Tree size: 				0.26857
+. Tree size: 				0.12943
 
 . Discrete gamma model: 		Yes
   - Number of categories: 		4
-  - Gamma shape parameter: 		1.224
+  - Gamma shape parameter: 		0.255
 
 . Nucleotides frequencies:
 
-  - f(A)= 0.32317
-  - f(C)= 0.15251
-  - f(G)= 0.16639
-  - f(T)= 0.35792
+  - f(A)= 0.32269
+  - f(C)= 0.15268
+  - f(G)= 0.16661
+  - f(T)= 0.35801
 
 . GTR relative rate parameters : 
 
-  A <-> C    1.08537
-  A <-> G    1.02408
-  A <-> T    0.47584
-  C <-> G    0.55282
-  C <-> T    0.63915
+  A <-> C    1.22095
+  A <-> G    0.80291
+  A <-> T    0.31765
+  C <-> G    0.50807
+  C <-> T    0.57922
   G <-> T    1.00000
 
 
 . Instantaneous rate matrix : 
 
   [A---------C---------G---------T------]
-  -0.93033   0.30420   0.31314   0.31298  
-   0.64460  -1.23404   0.16904   0.42040  
-   0.60820   0.15494  -1.42089   0.65775  
-   0.28260   0.17914   0.30578  -0.76752  
+  -0.88823   0.38160   0.27384   0.23279  
+   0.80652  -1.40429   0.17328   0.42449  
+   0.53037   0.15879  -1.42203   0.73286  
+   0.20983   0.18103   0.34106  -0.73192  
 
 
 
-. Time used 0h3m54s
+. Time used 0h3m45s
 
 
-. 234 seconds
+. 225 seconds
 
  oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
  Suggested citation:
