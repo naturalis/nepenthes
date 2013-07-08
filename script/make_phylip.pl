@@ -58,7 +58,7 @@ $matrix->visit(sub{
 	
 	# taxon is part of a pair
 	my $pair = '';
-	if ( $name =~ /\(pair (\d+)\)/ ) {
+	if ( $name =~ /pair(\d+)/ ) {
 		$pair = $1;
 		$log->info("$id is part of pair $pair");
 	}
