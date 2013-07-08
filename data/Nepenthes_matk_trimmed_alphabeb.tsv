@@ -1,14 +1,14 @@
 ID	BINOMIAL	PAIR	LOCATION
 taxon1	Nepenthes adnata		L
-taxon2	Nepenthes alata		H
-taxon3	Nepenthes albomarginata		L
-taxon4	Nepenthes ampullaria		L
+taxon2	Nepenthes alata	4	H
+taxon3	Nepenthes albomarginata	1	L
+taxon4	Nepenthes ampullaria	2	L
 taxon5	Nepenthes aristolochioides		L
 taxon6	Nepenthes aristolochioides		L
 taxon7	Nepenthes bellii		H
 taxon8	Nepenthes bellii		H
-taxon9	Nepenthes bicalcarata		L
-taxon10	Nepenthes bicalcarata		L
+taxon9	Nepenthes bicalcarata	3	L
+taxon10	Nepenthes bicalcarata	3	L
 taxon11	Nepenthes bongso		L
 taxon12	Nepenthes boschiana		L
 taxon13	Nepenthes burbidgeae		H
@@ -24,10 +24,10 @@ taxon22	Nepenthes ephippiata		H
 taxon23	Nepenthes eustachys		L
 taxon24	Nepenthes eymae		H
 taxon25	Nepenthes faizaliana		H
-taxon26	Nepenthes fusca		H
+taxon26	Nepenthes fusca	5	H
 taxon27	Nepenthes glabrata		H
-taxon28	Nepenthes gracilis		L
-taxon29	Nepenthes gracilis		L
+taxon28	Nepenthes gracilis	3	L
+taxon29	Nepenthes gracilis	3	L
 taxon30	Nepenthes gracillima		L
 taxon31	Nepenthes gracillima		L
 taxon32	Nepenthes gymnamphora		L
@@ -38,24 +38,24 @@ taxon36	Nepenthes insignis		H
 taxon37	Nepenthes insignis		H
 taxon38	Nepenthes lavicola		L
 taxon39	Nepenthes lowii		H
-taxon40	Nepenthes lowii		H
+taxon40	Nepenthes lowii	4	H
 taxon41	Nepenthes longifolia		L
 taxon42	Nepenthes macfarlanei		L
 taxon43	Nepenthes mapuluensis		L
 taxon44	Nepenthes macrovulgaris		L
 taxon45	Nepenthes macrovulgaris		L
-taxon46	Nepenthes maxima		H
+taxon46	Nepenthes maxima	6	H
 taxon47	Nepenthes merrilliana		H
 taxon48	Nepenthes mikei		L
 taxon49	Nepenthes mira		H
-taxon50	Nepenthes mirabilis		L
+taxon50	Nepenthes mirabilis	2	L
 taxon51	Nepenthes muluensis		H
 taxon52	Nepenthes murudensis		H
 taxon53	Nepenthes ovata		L
 taxon54	Nepenthes pectinata		L
 taxon55	Nepenthes petiolata		L
 taxon56	Nepenthes pilosa		H
-taxon57	Nepenthes rafflesiana		L
+taxon57	Nepenthes rafflesiana	1	L
 taxon58	Nepenthes rajah		L
 taxon59	Nepenthes rajah		L
 taxon60	Nepenthes ramispina		L
@@ -66,13 +66,13 @@ taxon64	Nepenthes sibuyanensis		H
 taxon65	Nepenthes singalana		L
 taxon66	Nepenthes spathulata		L
 taxon67	Nepenthes spectabilis		L
-taxon68	Nepenthes stenophylla		H
+taxon68	Nepenthes stenophylla	6	H
 taxon69	Nepenthes sumatrana		L
 taxon70	Nepenthes talangensis		L
 taxon71	Nepenthes thorelii		L
 taxon72	Nepenthes tobaica		L
 taxon73	Nepenthes truncata		L
-taxon74	Nepenthes veitchii		H
+taxon74	Nepenthes veitchii	5	H
 taxon75	Nepenthes villosa		H
 taxon76	Nepenthes ventricosa		H
 taxon77	Nepenthes xiphioides		L
