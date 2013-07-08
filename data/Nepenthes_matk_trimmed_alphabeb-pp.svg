@@ -1,0 +1,320 @@
+<svg height="1600" width="800" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <style type="text/css"><![CDATA[
+	polyline { fill: none; stroke: black; stroke-width: 1 }
+	path { fill: none; stroke: black; stroke-width: 1 }
+	line { fill: none; stroke: black; stroke-width: 1 }
+	circle.node_circle  {}
+	circle.taxon_circle {}
+	text.node_text      {}
+	text.taxon_text     {}
+	line.scale_bar      {}
+	text.scale_label    {}
+	line.scale_major    {}
+	line.scale_minor    {}
+]]></style>
+    <polyline points="145,137 145,147 550,147" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="152">Nepenthes macrovulgaris</text>
+    
+    <polyline points="145,137 145,127 550,127" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="132">Nepenthes gracilis</text>
+    <circle cx="561" cy="127" r="7" style="fill: rgb(197,0,255); stroke: rgb(255,255,255); stroke-width: 7" />
+    <polyline points="288,254 288,264 550,264" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="269">Nepenthes ramispina</text>
+    
+    <polyline points="288,254 288,244 550,244" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="249">Nepenthes macfarlanei</text>
+    
+    <polyline points="264,239 264,254 288,254" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="264,239 264,225 550,225" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="230">Nepenthes sanguinea</text>
+    
+    <polyline points="240,222 240,239 264,239" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="240,222 240,205 550,205" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="210">Nepenthes gracillima</text>
+    
+    <polyline points="216,204 216,222 240,222" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="216,204 216,186 550,186" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="191">Nepenthes mikei</text>
+    
+    <polyline points="311,332 311,342 550,342" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="347">Nepenthes rafflesiana</text>
+    <circle cx="561" cy="342" r="7" style="fill: rgb(197,0,255); stroke: rgb(255,255,255); stroke-width: 7" />
+    <polyline points="311,332 311,322 550,322" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="327">Nepenthes thorelii</text>
+    
+    <polyline points="288,317 288,332 311,332" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="288,317 288,303 550,303" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="308">Nepenthes albomarginata</text>
+    <circle cx="561" cy="303" r="7" style="fill: rgb(197,0,255); stroke: rgb(255,255,255); stroke-width: 7" />
+    <polyline points="383,390 383,400 550,400" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="405">Nepenthes inermis</text>
+    
+    <polyline points="383,390 383,381 550,381" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="386">Nepenthes dubia</text>
+    
+    <polyline points="478,488 478,498 550,498" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="503">Nepenthes gymnamphora</text>
+    
+    <polyline points="478,488 478,478 550,478" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="483">Nepenthes bongso</text>
+    
+    <polyline points="526,566 526,575 550,575" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="580">Nepenthes spectabilis</text>
+    
+    <polyline points="526,566 526,556 550,556" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="561">Nepenthes longifolia</text>
+    
+    <polyline points="502,551 502,566 526,566" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="502,551 502,537 550,537" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="542">Nepenthes rhombicaulis</text>
+    
+    <polyline points="478,534 478,551 502,551" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="478,534 478,517 550,517" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="522">Nepenthes eustachys</text>
+    
+    <polyline points="454,511 454,534 478,534" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="454,511 454,488 478,488" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="430,485 430,511 454,511" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="430,485 430,459 550,459" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="464">Nepenthes ovata</text>
+    
+    <polyline points="407,462 407,485 430,485" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="407,462 407,439 550,439" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="444">Nepenthes sumatrana</text>
+    
+    <polyline points="383,441 383,462 407,462" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="383,441 383,420 550,420" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="425">Nepenthes adnata</text>
+    
+    <polyline points="359,416 359,441 383,441" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="359,416 359,390 383,390" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="335,388 335,416 359,416" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="335,388 335,361 550,361" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="366">Nepenthes tobaica</text>
+    
+    <polyline points="383,644 383,653 550,653" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="658">Nepenthes diatas</text>
+    
+    <polyline points="383,644 383,634 550,634" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="639">Nepenthes singalana</text>
+    
+    <polyline points="359,629 359,644 383,644" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="359,629 359,614 550,614" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="619">Nepenthes densiflora</text>
+    
+    <polyline points="335,612 335,629 359,629" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="335,612 335,595 550,595" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="600">Nepenthes xiphioides</text>
+    
+    <polyline points="311,500 311,612 335,612" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="311,500 311,388 335,388" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="383,722 383,731 550,731" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="736">Nepenthes aristolochioides</text>
+    
+    <polyline points="383,722 383,712 550,712" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="717">Nepenthes aristolochioides</text>
+    
+    <polyline points="359,707 359,722 383,722" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="359,707 359,692 550,692" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="697">Nepenthes talangensis</text>
+    
+    <polyline points="359,761 359,770 550,770" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="775">Nepenthes pectinata</text>
+    
+    <polyline points="359,761 359,751 550,751" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="756">Nepenthes spathulata</text>
+    
+    <polyline points="335,734 335,761 359,761" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="335,734 335,707 359,707" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="311,703 311,734 335,734" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="311,703 311,673 550,673" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="678">Nepenthes lavicola</text>
+    
+    <polyline points="288,602 288,703 311,703" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="288,602 288,500 311,500" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="264,460 264,602 288,602" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="264,460 264,317 288,317" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="383,877 383,887 550,887" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="892">Nepenthes ampullaria</text>
+    <circle cx="561" cy="887" r="7" style="fill: rgb(197,0,255); stroke: rgb(255,255,255); stroke-width: 7" />
+    <polyline points="383,877 383,868 550,868" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="873">Nepenthes mirabilis</text>
+    <circle cx="561" cy="868" r="7" style="fill: rgb(197,0,255); stroke: rgb(255,255,255); stroke-width: 7" />
+    <polyline points="359,863 359,877 383,877" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="359,863 359,848 550,848" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="853">Nepenthes hirsuta</text>
+    
+    <polyline points="335,846 335,863 359,863" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="335,846 335,829 550,829" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="834">Nepenthes gracilis</text>
+    <circle cx="561" cy="829" r="7" style="fill: rgb(197,0,255); stroke: rgb(255,255,255); stroke-width: 7" />
+    <polyline points="311,828 311,846 335,846" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="311,828 311,809 550,809" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="814">Nepenthes bicalcarata</text>
+    <circle cx="561" cy="809" r="7" style="fill: rgb(197,0,255); stroke: rgb(255,255,255); stroke-width: 7" />
+    <polyline points="288,809 288,828 311,828" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="288,809 288,790 550,790" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="795">Nepenthes mapuluensis</text>
+    
+    <polyline points="359,955 359,965 550,965" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="970">Nepenthes truncata</text>
+    
+    <polyline points="359,955 359,946 550,946" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="951">Nepenthes petiolata</text>
+    
+    <polyline points="335,941 335,955 359,955" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="335,941 335,926 550,926" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="931">Nepenthes rajah</text>
+    
+    <polyline points="335,994 335,1004 550,1004" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1009">Nepenthes boschiana</text>
+    
+    <polyline points="335,994 335,985 550,985" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="990">Nepenthes villosa</text>
+    
+    <polyline points="311,968 311,994 335,994" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="311,968 311,941 335,941" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="288,937 288,968 311,968" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="288,937 288,907 550,907" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="912">Nepenthes rajah</text>
+    
+    <polyline points="264,873 264,937 288,937" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="264,873 264,809 288,809" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="240,666 240,873 264,873" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="240,666 240,460 264,460" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="216,475 216,666 240,666" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="216,475 216,283 550,283" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="288">Nepenthes macrovulgaris</text>
+    
+    <polyline points="192,339 192,475 216,475" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="192,339 192,204 216,204" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="169,253 169,339 192,339" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="169,253 169,166 550,166" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="171">Nepenthes reinwardtiana</text>
+    
+    <polyline points="264,1053 264,1062 550,1062" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1067">Nepenthes ventricosa</text>
+    
+    <polyline points="264,1053 264,1043 550,1043" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1048">Nepenthes burkei</text>
+    
+    <polyline points="264,1092 264,1101 550,1101" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1106">Nepenthes insignis</text>
+    
+    <polyline points="264,1092 264,1082 550,1082" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1087">Nepenthes insignis</text>
+    
+    <polyline points="240,1072 240,1092 264,1092" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="240,1072 240,1053 264,1053" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="216,1048 216,1072 240,1072" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="216,1048 216,1024 550,1024" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1029">Nepenthes sibuyanensis</text>
+    
+    <polyline points="240,1150 240,1160 550,1160" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1165">Nepenthes bellii</text>
+    
+    <polyline points="240,1150 240,1140 550,1140" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1145">Nepenthes merrilliana</text>
+    
+    <polyline points="216,1136 216,1150 240,1150" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="216,1136 216,1121 550,1121" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1126">Nepenthes bellii</text>
+    
+    <polyline points="192,1092 192,1136 216,1136" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="192,1092 192,1048 216,1048" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="240,1189 240,1199 550,1199" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1204">Nepenthes murudensis</text>
+    
+    <polyline points="240,1189 240,1179 550,1179" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1184">Nepenthes muluensis</text>
+    
+    <polyline points="240,1228 240,1238 550,1238" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1243">Nepenthes hamata</text>
+    
+    <polyline points="240,1228 240,1218 550,1218" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1223">Nepenthes glabrata</text>
+    
+    <polyline points="216,1209 216,1228 240,1228" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="216,1209 216,1189 240,1189" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="264,1287 264,1296 550,1296" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1301">Nepenthes mira</text>
+    
+    <polyline points="264,1287 264,1277 550,1277" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1282">Nepenthes alata</text>
+    <circle cx="561" cy="1277" r="7" style="fill: rgb(0,92,230); stroke: rgb(255,255,255); stroke-width: 7" />
+    <polyline points="311,1325 311,1335 550,1335" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1340">Nepenthes clipeata</text>
+    
+    <polyline points="311,1325 311,1316 550,1316" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1321">Nepenthes clipeata</text>
+    
+    <polyline points="311,1364 311,1374 550,1374" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1379">Nepenthes lowii</text>
+    
+    <polyline points="311,1364 311,1355 550,1355" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1360">Nepenthes ephippiata</text>
+    
+    <polyline points="288,1345 288,1364 311,1364" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="288,1345 288,1325 311,1325" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="407,1481 407,1491 550,1491" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1496">Nepenthes burbidgeae</text>
+    
+    <polyline points="407,1481 407,1472 550,1472" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1477">Nepenthes maxima</text>
+    <circle cx="561" cy="1472" r="7" style="fill: rgb(0,92,230); stroke: rgb(255,255,255); stroke-width: 7" />
+    <polyline points="407,1520 407,1530 550,1530" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1535">Nepenthes eymae</text>
+    
+    <polyline points="407,1520 407,1511 550,1511" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1516">Nepenthes pilosa</text>
+    
+    <polyline points="383,1501 383,1520 407,1520" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="383,1501 383,1481 407,1481" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="359,1476 359,1501 383,1501" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="359,1476 359,1452 550,1452" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1457">Nepenthes edwardsiana</text>
+    
+    <polyline points="335,1455 335,1476 359,1476" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="335,1455 335,1433 550,1433" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1438">Nepenthes stenophylla</text>
+    <circle cx="561" cy="1433" r="7" style="fill: rgb(0,92,230); stroke: rgb(255,255,255); stroke-width: 7" />
+    <polyline points="311,1434 311,1455 335,1455" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="311,1434 311,1413 550,1413" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1418">Nepenthes veitchii</text>
+    <circle cx="561" cy="1413" r="7" style="fill: rgb(0,92,230); stroke: rgb(255,255,255); stroke-width: 7" />
+    <polyline points="288,1414 288,1434 311,1434" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="288,1414 288,1394 550,1394" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1399">Nepenthes fusca</text>
+    <circle cx="561" cy="1394" r="7" style="fill: rgb(0,92,230); stroke: rgb(255,255,255); stroke-width: 7" />
+    <polyline points="264,1379 264,1414 288,1414" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="264,1379 264,1345 288,1345" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="240,1333 240,1379 264,1379" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="240,1333 240,1287 264,1287" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="216,1295 216,1333 240,1333" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="216,1295 216,1257 550,1257" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="1262">Nepenthes faizaliana</text>
+    
+    <polyline points="192,1252 192,1295 216,1295" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="192,1252 192,1209 216,1209" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="169,1172 169,1252 192,1252" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="169,1172 169,1092 192,1092" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="145,712 145,1172 169,1172" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <polyline points="145,712 145,253 169,253" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="121,425 121,712 145,712" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="121,425 121,137 145,137" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="97,266 97,425 121,425" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="97,266 97,108 550,108" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="113">Nepenthes bicalcarata</text>
+    <circle cx="561" cy="108" r="7" style="fill: rgb(197,0,255); stroke: rgb(255,255,255); stroke-width: 7" />
+    <polyline points="73,177 73,266 97,266" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="73,177 73,88 550,88" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="93">Nepenthes gracillima</text>
+    
+    <polyline points="50,99 50,177 73,177" style="stroke: rgb(197,0,255); stroke-width: 7" />
+    <polyline points="50,99 50,69 550,69" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="74">Nepenthes lowii</text>
+    <circle cx="561" cy="69" r="7" style="fill: rgb(0,92,230); stroke: rgb(255,255,255); stroke-width: 7" />
+    <polyline points="50,99 50,50 550,50" style="stroke: rgb(0,92,230); stroke-width: 7" />
+    <text class="taxon_text" style="font-family: Verdana; font-size: 12; font-style: italic"  x="571" y="55">Nepenthes clipeata</text>
+    
+</svg>
