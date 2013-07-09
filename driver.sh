@@ -8,6 +8,9 @@ MAKE_PHYLIP="perl script/make_phylip.pl"
 PHYML="phyml -q -p -m GTR -f m -a e -s BEST --quiet"
 PHYMLTREE=_phyml_tree.txt
 TREE=$PHYLIP$PHYMLTREE
+PSEUDO=$DATA/MacClade-Meimberg
+NEWICK=$PSEUDO.dnd
+NEWICKMAKER="perl script/make_newick.pl"
 
 # drawing parameters
 # Lowland (pairs1-3) - Amethyst: RGB(197/0/255) Lab(55.792966435524/85.1295049022369/66.5430243345725)
@@ -34,9 +37,14 @@ if [ ! -f $TREE ]; then
 	$PHYML -i $PHYLIP
 fi
 
+# convert pseudocharacters tree to newick tree with IDs that map to the spreadsheet
+if [ ! -f $NEWICK ]; then
+	$NEWICKMAKER -i $PSEUDO -m $MAPPING -o $NEWICK --verbose
+fi
+
 # draw tree
 if [ ! -f $IMAGE ]; then
-	$DRAW -i $TREE -o $IMAGE -map $MAPPING -mode $MODE -verbose -shape $SHAPE\
+	$DRAW -i $NEWICK -o $IMAGE -map $MAPPING -mode $MODE --verbose -shape $SHAPE\
 		-radius $RADIUS -color L=$L -color H=$H -width $WIDTH -height $HEIGHT
 fi
 
