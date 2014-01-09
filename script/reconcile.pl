@@ -38,6 +38,7 @@ for my $file ( @infiles ) {
 			
 			# flag is true of the number of files in which the species occurs equals total
 			$printme = scalar( keys( %{ $seen{$species} } ) ) == scalar( @infiles );
+			warn "singleton $species in $file\n" unless $printme;
 		}
 		print $out $_ if $printme;
 	}
